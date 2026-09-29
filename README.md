@@ -1,4 +1,4 @@
-# Drink Water Reminder
+# Drink Water Reminder – Simple Python Project
 
 A small Python script that sends a desktop notification when it is time to drink water. It sends the first notification immediately, then repeats every hour.
 
